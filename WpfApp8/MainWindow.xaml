@@ -6,7 +6,29 @@
         xmlns:local="clr-namespace:WpfApp8"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    
+    <StackPanel>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+        <Button Content="qwe"/>
+    </StackPanel>
 </Window>

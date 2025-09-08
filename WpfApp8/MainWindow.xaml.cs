@@ -19,6 +19,8 @@ namespace WpfApp8
         public MainWindow()
         {
             InitializeComponent();
+
+            MessageBox.Show("Test");
         }
     }
 }
